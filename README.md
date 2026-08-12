@@ -35,7 +35,7 @@ Compile and run using your preferred IDE (IntelliJ, Eclipse).
 
 ## 👨‍💻 Author
 
-**Andrii Drymchenko** — Full-Stack Developer & AI Product Builder
+**Andrii Drymchenko** — Full-Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zishwhwhw-181717?style=flat-square&logo=github)](https://github.com/Zishwhwhw)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
@@ -47,6 +47,6 @@ MIT License
 ---
 
 <div align="center">
-  <sub>Built with ❤️ and 🤖 AI</sub><br/>
+  <sub>Built with ❤️</sub><br/>
   <sub>⭐ Star this repo if you found it useful!</sub>
 </div>
