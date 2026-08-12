@@ -42,7 +42,7 @@ Compile and run using your preferred IDE (IntelliJ, Eclipse).
 
 ## 📄 License
 
-MIT License
+GNU General Public License v3.0
 
 ---
 
